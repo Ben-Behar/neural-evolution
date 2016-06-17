@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{hornby2001evolution}
+G.~S. Hornby, H.~Lipson, and J.~B. Pollack.
+\newblock Evolution of generative design systems for modular physical robots.
+\newblock In {\em Robotics and Automation, 2001. Proceedings 2001 ICRA. IEEE
+  International Conference on}, volume~4, pages 4146--4151. IEEE, 2001.
+
+\bibitem{hornby2001evolving}
+G.~S. Hornby and J.~B. Pollack.
+\newblock Evolving l-systems to generate virtual creatures.
+\newblock {\em Computers \& Graphics}, 25(6):1041--1048, 2001.
+
+\bibitem{krcah2007evolutionary}
+P.~Krcah.
+\newblock Evolutionary development of robotic organisms.
+\newblock {\em Master's thesis, Charles University in Prague}, 2007.
+
+\bibitem{lehman2011evolving}
+J.~Lehman and K.~O. Stanley.
+\newblock Evolving a diversity of virtual creatures through novelty search and
+  local competition.
+\newblock In {\em Proceedings of the 13th annual conference on Genetic and
+  evolutionary computation}, pages 211--218. ACM, 2011.
+
+\bibitem{sims1994evolving}
+K.~Sims.
+\newblock Evolving virtual creatures.
+\newblock In {\em Proceedings of the 21st annual conference on Computer
+  graphics and interactive techniques}, pages 15--22. ACM, 1994.
+
+\bibitem{srinivas1994muiltiobjective}
+N.~Srinivas and K.~Deb.
+\newblock Muiltiobjective optimization using nondominated sorting in genetic
+  algorithms.
+\newblock {\em Evolutionary computation}, 2(3):221--248, 1994.
+
+\bibitem{stanley2002evolving}
+K.~O. Stanley and R.~Miikkulainen.
+\newblock Evolving neural networks through augmenting topologies.
+\newblock {\em Evolutionary computation}, 10(2):99--127, 2002.
+
+\bibitem{turing1950computing}
+A.~M. Turing.
+\newblock Computing machinery and intelligence.
+\newblock {\em Mind}, 59(236):433--460, 1950.
+
+\end{thebibliography}
